@@ -2,7 +2,7 @@
     "name": "dionkeldei/php-blade-parser",
     "description": "Blade Template Variable detection",
     "type": "library",
-    "license": "GNU",
+    "license": "MIT",
     "authors": [
         {
             "name": "Dionkeldei",
