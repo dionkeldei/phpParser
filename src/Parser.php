@@ -22,7 +22,7 @@ class Parser
           array_push($this->variables,$var[1]);
         }
       }
-      return (object) $this->variables;
+      return $this->variables;
     }
 }
 
