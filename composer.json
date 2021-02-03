@@ -1,0 +1,17 @@
+{
+    "name": "dionkeldei/php-blade-parser",
+    "description": "Blade Template Variable detection",
+    "type": "library",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Dionkeldei",
+            "email": "dionkeldei@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"dionkeldei\\BladeParser\\": "src/"}
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
