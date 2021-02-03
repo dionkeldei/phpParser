@@ -4,7 +4,7 @@ namespace dionkeldei\BladeParser;
 
 class Parser
 {
-    __construct(html){
+    function __construct(html){
       $this->html = html;
     }
 
